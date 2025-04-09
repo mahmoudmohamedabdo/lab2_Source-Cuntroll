@@ -21,7 +21,10 @@ git clone https://github.com/maryouma/skincare-shop.git
 cd skincare-shop
 npm install
 npm start
+```
 
+
+## 🚀 Getting Started
 ![Cool UI](https://m.media-amazon.com/images/I/61AyVT9rrxL.__AC_SX300_SY300_QL70_ML2_.jpg)
  
 
