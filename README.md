@@ -22,5 +22,6 @@ cd skincare-shop
 npm install
 npm start
 
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![Cool UI](https://m.media-amazon.com/images/I/61AyVT9rrxL.__AC_SX300_SY300_QL70_ML2_.jpg)
+ 
 
